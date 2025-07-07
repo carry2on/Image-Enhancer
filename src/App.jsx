@@ -13,7 +13,7 @@ function App() {
         Welcome to the Image Enhancer App
         Upload your images and enhance them with ease!
       </div>
- MANANK THE SOFTWARE DEVLOPER PORTFIOLIO <a href="https://portfolio-manank.vercel.app/"> click me</a>
+ MANANK THE SOFTWARE DEVLOPER PORTFIOLIO <a className="border border-blue-600 text-blue-600 px-6 py-2 rounded-lg hover:bg-blue-600 hover:text-white transition duration-300" cl href="https://portfolio-manank.vercel.app/"> click me</a>
     </div></>
   )
 }
